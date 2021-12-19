@@ -1,0 +1,4 @@
+com/bookapi/config/AppConfig.class
+com/bookapi/model/Book.class
+com/bookapi/config/WebConfig.class
+com/bookapi/config/MyWebAppInitializer.class
