@@ -12,7 +12,7 @@
 	</properties>
 
 	<dependencies>
-		<!--  -->
+		<!-- -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
@@ -21,16 +21,18 @@
 
 
 
-		<!--  -->
+		<!-- -->
+		<!-- https://mvnrepository.com/artifact/org.springframework/spring-orm -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-orm</artifactId>
-			<version>5.3.14</version>
+			<version>4.2.4.RELEASE</version>
 		</dependency>
 
 
 
-		<!--  -->
+
+		<!-- -->
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
@@ -38,7 +40,7 @@
 		</dependency>
 
 
-		<!--  -->
+		<!-- -->
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-c3p0</artifactId>
@@ -47,7 +49,7 @@
 
 
 
-		<!--  -->
+		<!-- -->
 		<dependency>
 			<groupId>com.mchange</groupId>
 			<artifactId>c3p0</artifactId>
@@ -56,7 +58,7 @@
 
 
 
-		<!--  -->
+		<!-- -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
