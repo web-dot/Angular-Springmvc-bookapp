@@ -1,4 +1,4 @@
-com/bookapi/config/AppConfig.class
-com/bookapi/model/Book.class
-com/bookapi/config/WebConfig.class
-com/bookapi/config/MyWebAppInitializer.class
+com\sudip\spring\config\AppConfig.class
+com\sudip\spring\config\WebConfig.class
+com\sudip\spring\model\Book.class
+com\sudip\spring\config\MyWebAppInitializer.class

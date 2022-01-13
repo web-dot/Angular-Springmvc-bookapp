@@ -1,4 +1,4 @@
-package com.bookapi.config;
+package com.sudip.spring.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
